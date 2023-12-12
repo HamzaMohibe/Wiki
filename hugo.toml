@@ -1,4 +1,4 @@
 baseURL = 'https://com619-devops.uksouth.cloudapp.azure.com/wiki/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Not a virus map wiki'
 theme='hugo-theme-relearn'

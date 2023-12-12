@@ -30,6 +30,10 @@ GitHub project (Kanban board) - 1st sprint: https://github.com/users/jrykns/proj
 
 GitHub project (Kanban board) - 2nd sprint: https://github.com/orgs/jrykns-org/projects/5
 
+GitHub project (Kanban board) - 3rd sprint: https://github.com/orgs/jrykns-org/projects/7
+
 GitHub wiki: https://github.com/jrykns-org/not-a-virus-map/wiki
 
-Server URL: https://com619-devops.uksouth.cloudapp.azure.com
+Server URL: https://com619-devops.uksouth.cloudapp.azure.com/home
+
+Server wiki: https://com619-devops.uksouth.cloudapp.azure.com/wiki/
