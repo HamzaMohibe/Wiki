@@ -35,14 +35,8 @@ GitHub project (Kanban board) - 3rd sprint: https://github.com/orgs/jrykns-org/p
 
 GitHub wiki: https://github.com/jrykns-org/not-a-virus-map/wiki
 
-<<<<<<< HEAD:index.md
 Server URL: https://com619-devops.uksouth.cloudapp.azure.com
 
 - [Page 1](docs/Azure/_index.md)
 - [Page 2](docs/page2.md)
 - [Page 3](docs/page3.md)
-=======
-Server URL: https://com619-devops.uksouth.cloudapp.azure.com/home
-
-Server wiki: https://com619-devops.uksouth.cloudapp.azure.com/wiki/
->>>>>>> e45f18f291471f7366b202f6d0c5869baeceef7e:content/_index.md
